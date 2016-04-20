@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var fb = require('./fizzbuzz');
+
+consol.log(fb.count(1, 100));
